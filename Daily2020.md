@@ -9,7 +9,7 @@ Cause I'm going to do an intern in HikVision soon .(actually in June 1st) To pre
 Finally succeeded to build tensorflow from source and now waiting to download datasets of segmap.
 Things should know before building tensorflow from source:
 * Be sure with the correspondence between the version of ***tensorflow*** and ***bazel***;
-* Due to the Internet restriction, better to download the *.sh* file of bazel;
+* Due to the Internet restriction, better to download the `.sh` file of bazel;
 
 About ROS
-* *catkin clean* restores the workspace and let you be able to rebuild from scratch.
+* `catkin clean` restores the workspace and let you be able to rebuild from scratch.
