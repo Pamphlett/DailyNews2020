@@ -6,10 +6,13 @@ Cause I'm going to do an intern in HikVision soon .(actually in June 1st) To pre
 ---
 
 #### 2020/5/27
-Finally succeeded to build tensorflow from source and now waiting to download datasets of segmap.
+Finally succeeded to build tensorflow from source and now waiting to download datasets of segmap. :smile:
+
 Things should know before building tensorflow from source:
 * Be sure with the correspondence between the version of ***tensorflow*** and ***bazel***;
 * Due to the Internet restriction, better to download the `.sh` file of bazel;
+
+About how to build `tensorflow_ros_cpp`: see [here](https://github.com/ethz-asl/segmap/issues/108#issuecomment-420964940).
 
 About ROS
 * `catkin clean` restores the workspace and let you be able to rebuild from scratch.
