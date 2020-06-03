@@ -16,3 +16,9 @@ About how to build `tensorflow_ros_cpp`: see [here](https://github.com/ethz-asl/
 
 About ROS
 * `catkin clean` restores the workspace and let you be able to rebuild from scratch.
+
+---
+
+#### 2020/6/3
+公司生活有点难顶，容易疲倦 :(
+最近两天在整理已经做过的东西，要在小组内做个pre，无新进展嗷。
