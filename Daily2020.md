@@ -26,4 +26,4 @@ About ROS
 ---
 
 #### 2020/6/8
-`.launch` file is actually a parameter setting file witten in xml.
+`.launch` file is actually a parameter setting file written in xml.
