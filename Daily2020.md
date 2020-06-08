@@ -22,3 +22,8 @@ About ROS
 #### 2020/6/3
 公司生活有点难顶，容易疲倦 :(
 最近两天在整理已经做过的东西，要在小组内做个pre，无新进展嗷。
+
+---
+
+#### 2020/6/8
+`.launch` file is actually a parameter setting file witten in xml.
