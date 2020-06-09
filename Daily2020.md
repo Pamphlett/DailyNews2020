@@ -27,3 +27,8 @@ About ROS
 
 #### 2020/6/8
 `.launch` file is actually a parameter setting file written in xml.
+
+---
+
+#### 2020/6/9
+Use `rqt_bag` to preview a rosbag.
