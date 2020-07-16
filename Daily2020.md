@@ -32,3 +32,11 @@ About ROS
 
 #### 2020/6/9
 Use `rqt_bag` to preview a rosbag.
+
+---
+#### 2020/7/16
+Long time no see :smile:
+Recently I'm working on poor initial value registration issues. Teaser++ seems to be capable of handling all this.
+So now a global localization procedure is something like this:
+Scan Context -> poor but reasonable initial value -> Robust registration technique -> ICP fine pose estimation
+Typical Coarse to Fine.
