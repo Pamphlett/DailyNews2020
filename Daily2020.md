@@ -47,6 +47,5 @@ Typical Coarse to Fine.
 
 ---
 #### 2020/7/20
-Isotropic Gaussian: the covariance matrix is \sigma^2 * Identity.
-
-This goes for a circular symmetry of the pdf.
+* Isotropic Gaussian: the covariance matrix is an Identity matrix multplies a constant, which makes a circular symmetry of the pdf.
+* Frobenius norm is the L2 norm for the matrix.
