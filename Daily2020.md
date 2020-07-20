@@ -44,6 +44,7 @@ So now a global localization procedure is something like this:
 Scan Context -> poor but reasonable initial value -> Robust registration technique -> ICP fine pose estimation
 
 Typical Coarse to Fine.
+
 ---
 #### 2020/7/20
 Isotropic Gaussian: the covariance matrix is \sigma^2 * Identity.
