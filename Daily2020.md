@@ -49,3 +49,7 @@ Typical Coarse to Fine.
 #### 2020/7/20
 * Isotropic Gaussian: the covariance matrix is an Identity matrix multplies a constant, which makes a circular symmetry of the pdf.
 * Frobenius norm is the L2 norm for the matrix.
+
+---
+#### 2020/7/23
+While building Teaser, you should add `find_package(PCL REQUIRED)` and `include_directories(${PCL_INCLUDE_DIRS})` to make the program be able to find PCL.
