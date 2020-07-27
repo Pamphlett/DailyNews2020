@@ -53,3 +53,7 @@ Typical Coarse to Fine.
 ---
 #### 2020/7/23
 While building Teaser, you should add `find_package(PCL REQUIRED)` and `include_directories(${PCL_INCLUDE_DIRS})` to make the program be able to find PCL.
+
+---
+#### 2020/7/27
+WHY M-Estimators?
